@@ -59,7 +59,7 @@ itagami.buy_immediately(1234, 1)
 To sell at the market:
 
 ```ruby
-itagami.buy_immediately(1234, 1)
+itagami.sell_immediately(1234, 1)
 ```
 
 To logout:
